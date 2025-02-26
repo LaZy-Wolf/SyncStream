@@ -1,0 +1,14 @@
+C:\Projects\SyncStream\SyncStream\bin\Release\net48\win-x64\publish\SyncStream.exe
+C:\Projects\SyncStream\SyncStream\bin\Release\net48\win-x64\publish\SyncStream.exe.config
+C:\Projects\SyncStream\SyncStream\bin\Release\net48\win-x64\publish\SyncStream.pdb
+C:\Projects\SyncStream\SyncStream\bin\Release\net48\win-x64\publish\InTheHand.Net.Personal.dll
+C:\Projects\SyncStream\SyncStream\bin\Release\net48\win-x64\publish\Microsoft.Win32.Registry.dll
+C:\Projects\SyncStream\SyncStream\bin\Release\net48\win-x64\publish\NAudio.dll
+C:\Projects\SyncStream\SyncStream\bin\Release\net48\win-x64\publish\NAudio.Asio.dll
+C:\Projects\SyncStream\SyncStream\bin\Release\net48\win-x64\publish\NAudio.Core.dll
+C:\Projects\SyncStream\SyncStream\bin\Release\net48\win-x64\publish\NAudio.Midi.dll
+C:\Projects\SyncStream\SyncStream\bin\Release\net48\win-x64\publish\NAudio.Wasapi.dll
+C:\Projects\SyncStream\SyncStream\bin\Release\net48\win-x64\publish\NAudio.WinForms.dll
+C:\Projects\SyncStream\SyncStream\bin\Release\net48\win-x64\publish\NAudio.WinMM.dll
+C:\Projects\SyncStream\SyncStream\bin\Release\net48\win-x64\publish\System.Security.AccessControl.dll
+C:\Projects\SyncStream\SyncStream\bin\Release\net48\win-x64\publish\System.Security.Principal.Windows.dll

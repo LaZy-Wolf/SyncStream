@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+        <LangVersion>10.0</LangVersion> <!-- Update this line -->
+    
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="32feet.NET" Version="3.5.0" />
+    <PackageReference Include="CSCore" Version="1.2.1.2" />
+    <PackageReference Include="NAudio" Version="2.2.1" />
+  </ItemGroup>
+
+</Project>
