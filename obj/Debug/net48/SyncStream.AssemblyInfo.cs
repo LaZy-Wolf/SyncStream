@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SyncStream")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89cde5c0e9cddb770aa263eac715d577239c8f4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SyncStream")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SyncStream")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
